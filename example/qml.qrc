@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/components">
+        <file alias="Nested1.qml">components/Nested1.qml</file>
+        <file alias="Nested2.qml">components/Nested2.qml</file>
+    </qresource>
+</RCC>
